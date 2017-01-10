@@ -1,9 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87797e45-772b-4468-8760-5e36daf3d6d1" name="Default" comment="" />
+    <list default="true" id="87797e45-772b-4468-8760-5e36daf3d6d1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Business Side/general.php" afterPath="$PROJECT_DIR$/FinalProject/Business Side/general.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Business Side/home.php" afterPath="$PROJECT_DIR$/FinalProject/Business Side/home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Business Side/index.js" afterPath="$PROJECT_DIR$/FinalProject/Business Side/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Business Side/login.php" afterPath="$PROJECT_DIR$/FinalProject/Business Side/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Business Side/logout.php" afterPath="$PROJECT_DIR$/FinalProject/Business Side/logout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Business Side/note.php" afterPath="$PROJECT_DIR$/FinalProject/Business Side/note.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Business Side/patientList.php" afterPath="$PROJECT_DIR$/FinalProject/Business Side/patientList.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Business Side/reminders.php" afterPath="$PROJECT_DIR$/FinalProject/Business Side/reminders.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Business Side/signup.php" afterPath="$PROJECT_DIR$/FinalProject/Business Side/signup.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Business Side/style.css" afterPath="$PROJECT_DIR$/FinalProject/Business Side/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Business Side/style.less" afterPath="$PROJECT_DIR$/FinalProject/Business Side/style.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Client Side/cal.js" afterPath="$PROJECT_DIR$/FinalProject/Client Side/cal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Client Side/general.php" afterPath="$PROJECT_DIR$/FinalProject/Client Side/general.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Client Side/login.php" afterPath="$PROJECT_DIR$/FinalProject/Client Side/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Client Side/logout.php" afterPath="$PROJECT_DIR$/FinalProject/Client Side/logout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Client Side/notec.php" afterPath="$PROJECT_DIR$/FinalProject/Client Side/notec.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Client Side/profile2.php" afterPath="$PROJECT_DIR$/FinalProject/Client Side/profile2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Client Side/remindersc.php" afterPath="$PROJECT_DIR$/FinalProject/Client Side/remindersc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Client Side/signup.php" afterPath="$PROJECT_DIR$/FinalProject/Client Side/signup.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Css/cal.css" afterPath="$PROJECT_DIR$/FinalProject/Css/cal.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Css/login.css" afterPath="$PROJECT_DIR$/FinalProject/Css/login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Css/note.css" afterPath="$PROJECT_DIR$/FinalProject/Css/note.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Css/signup.css" afterPath="$PROJECT_DIR$/FinalProject/Css/signup.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/Css/style.css" afterPath="$PROJECT_DIR$/FinalProject/Css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/FAQ.php" afterPath="$PROJECT_DIR$/FinalProject/FAQ.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/MonitorYourGlucose.php" afterPath="$PROJECT_DIR$/FinalProject/MonitorYourGlucose.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/carousel.php" afterPath="$PROJECT_DIR$/FinalProject/carousel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/connect.php" afterPath="$PROJECT_DIR$/FinalProject/connect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/homepage.php" afterPath="$PROJECT_DIR$/FinalProject/homepage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/mailer/class.phpmailer.php" afterPath="$PROJECT_DIR$/FinalProject/mailer/class.phpmailer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/mailer/class.pop3.php" afterPath="$PROJECT_DIR$/FinalProject/mailer/class.pop3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FinalProject/mailer/class.smtp.php" afterPath="$PROJECT_DIR$/FinalProject/mailer/class.smtp.php" />
+    </list>
     <ignored path="DiabeticAmerica.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,124 +54,48 @@
     <favorites_list name="DiabeticAmerica" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="general.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/general.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/home.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1463531494000" expanded="true" signature="252:331" placeholder="SELECT first... users" />
-                <marker date="1463531494000" expanded="true" signature="1455:1510" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1463618808000" expanded="true" signature="949:1020" placeholder="SELECT * FRO... users" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="note.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/note.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1463531494000" expanded="true" signature="1048:1096" placeholder="SELECT title... note" />
-                <marker date="1463531494000" expanded="true" signature="2073:2138" placeholder="INSERT INTO note... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reminders.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/reminders.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1475186004000" expanded="true" signature="1083:1140" placeholder="SELECT * FRO... reminders" />
-                <marker date="1475186004000" expanded="true" signature="2610:2720" placeholder="INSERT INTO reminders... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="signup.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/signup.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1463531494000" expanded="true" signature="947:1058" placeholder="INSERT INTO users... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FinalProject/Client Side/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1463618808000" expanded="true" signature="1544:1616" placeholder="SELECT * FRO... client" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="profile2.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FinalProject/Client Side/profile2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1463618808000" expanded="true" signature="410:461" placeholder="SELECT * FRO... client" />
-                <marker date="1463618808000" expanded="true" signature="586:648" placeholder="SELECT * FRO... client" />
-                <marker date="1463618808000" expanded="true" signature="900:1058" placeholder="INSERT INTO calendar... " />
-                <marker date="1463618808000" expanded="true" signature="1362:1406" placeholder="DELETE FROM " />
-                <marker date="1463618808000" expanded="true" signature="5161:5196" placeholder="..." />
-                <marker date="1463618808000" expanded="true" signature="5289:5324" placeholder="..." />
-                <marker date="1463618808000" expanded="true" signature="7257:7316" placeholder="SELECT * FRO... calendar" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FinalProject/Business Side/home.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Business Side/index.js" />
+        <option value="$PROJECT_DIR$/FinalProject/Business Side/login.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Business Side/logout.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Business Side/note.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Business Side/patientList.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Business Side/reminders.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Business Side/signup.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Business Side/style.css" />
+        <option value="$PROJECT_DIR$/FinalProject/Business Side/style.less" />
+        <option value="$PROJECT_DIR$/FinalProject/Business Side/general.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Client Side/cal.js" />
+        <option value="$PROJECT_DIR$/FinalProject/Client Side/general.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Client Side/login.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Client Side/logout.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Client Side/notec.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Client Side/profile2.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Client Side/remindersc.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Client Side/signup.php" />
+        <option value="$PROJECT_DIR$/FinalProject/Css/cal.css" />
+        <option value="$PROJECT_DIR$/FinalProject/Css/login.css" />
+        <option value="$PROJECT_DIR$/FinalProject/Css/note.css" />
+        <option value="$PROJECT_DIR$/FinalProject/Css/signup.css" />
+        <option value="$PROJECT_DIR$/FinalProject/Css/style.css" />
+        <option value="$PROJECT_DIR$/FinalProject/mailer/class.smtp.php" />
+        <option value="$PROJECT_DIR$/FinalProject/mailer/class.pop3.php" />
+        <option value="$PROJECT_DIR$/FinalProject/mailer/class.phpmailer.php" />
+        <option value="$PROJECT_DIR$/FinalProject/carousel.php" />
+        <option value="$PROJECT_DIR$/FinalProject/connect.php" />
+        <option value="$PROJECT_DIR$/FinalProject/FAQ.php" />
+        <option value="$PROJECT_DIR$/FinalProject/homepage.php" />
+        <option value="$PROJECT_DIR$/FinalProject/MonitorYourGlucose.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
@@ -221,7 +179,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Client Side" />
+              <option name="myItemId" value="mailer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiabeticAmerica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiabeticAmerica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FinalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiabeticAmerica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiabeticAmerica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FinalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiabeticAmerica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiabeticAmerica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FinalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="copyright" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -247,25 +263,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1438" height="790" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19842407" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19842407" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -276,98 +292,306 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/general.php">
+    <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1484079643000" expanded="true" signature="253:332" placeholder="SELECT first... users" />
+            <marker date="1484079643000" expanded="true" signature="1456:1511" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/home.php">
+    <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1463531494000" expanded="true" signature="252:331" placeholder="SELECT first... users" />
-            <marker date="1463531494000" expanded="true" signature="1455:1510" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.02332815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
-            <marker date="1463618808000" expanded="true" signature="949:1020" placeholder="SELECT * FRO... users" />
+            <marker date="1484079643000" expanded="true" signature="950:1021" placeholder="SELECT * FRO... users" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/note.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
-            <marker date="1463531494000" expanded="true" signature="1048:1096" placeholder="SELECT title... note" />
-            <marker date="1463531494000" expanded="true" signature="2073:2138" placeholder="INSERT INTO note... " />
+            <marker date="1484079643000" expanded="true" signature="1049:1097" placeholder="SELECT title... note" />
+            <marker date="1484079643000" expanded="true" signature="2074:2139" placeholder="INSERT INTO note... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/patientList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1484079643000" expanded="true" signature="213:255" placeholder="SELECT * FRO... client" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/reminders.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
-            <marker date="1475186004000" expanded="true" signature="1083:1140" placeholder="SELECT * FRO... reminders" />
-            <marker date="1475186004000" expanded="true" signature="2610:2720" placeholder="INSERT INTO reminders... " />
+            <marker date="1484079643000" expanded="true" signature="1084:1141" placeholder="SELECT * FRO... reminders" />
+            <marker date="1484079643000" expanded="true" signature="2611:2721" placeholder="INSERT INTO reminders... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1484079643000" expanded="true" signature="948:1059" placeholder="INSERT INTO users... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.024232633">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/signup.php">
+    <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024232633">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Business Side/general.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Client Side/cal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1463531494000" expanded="true" signature="947:1058" placeholder="INSERT INTO users... " />
-          </folding>
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Client Side/general.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FinalProject/Client Side/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
-            <marker date="1463618808000" expanded="true" signature="1544:1616" placeholder="SELECT * FRO... client" />
+            <marker date="1484079643000" expanded="true" signature="1545:1617" placeholder="SELECT * FRO... client" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Client Side/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Client Side/notec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1484079643000" expanded="true" signature="1057:1106" placeholder="SELECT title... notec" />
+            <marker date="1484079643000" expanded="true" signature="2085:2151" placeholder="INSERT INTO notec... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FinalProject/Client Side/profile2.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1484079643000" expanded="true" signature="411:462" placeholder="SELECT * FRO... client" />
+            <marker date="1484079643000" expanded="true" signature="587:649" placeholder="SELECT * FRO... client" />
+            <marker date="1484079643000" expanded="true" signature="901:1059" placeholder="INSERT INTO calendar... " />
+            <marker date="1484079643000" expanded="true" signature="1363:1407" placeholder="DELETE FROM " />
+            <marker date="1484079643000" expanded="true" signature="5162:5197" placeholder="..." />
+            <marker date="1484079643000" expanded="true" signature="5290:5325" placeholder="..." />
+            <marker date="1484079643000" expanded="true" signature="7258:7317" placeholder="SELECT * FRO... calendar" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Client Side/remindersc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1484079643000" expanded="true" signature="1093:1132" placeholder="SELECT email... client" />
+            <marker date="1484079643000" expanded="true" signature="1370:1428" placeholder="SELECT * FRO... remindersc" />
+            <marker date="1484079643000" expanded="true" signature="2826:2937" placeholder="INSERT INTO remindersc... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Client Side/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1484079643000" expanded="true" signature="2547:2566" placeholder="..." />
+            <marker date="1484079643000" expanded="true" signature="2741:2866" placeholder="INSERT INTO client... " />
+            <marker date="1484079643000" expanded="true" signature="4083:4101" placeholder="..." />
+            <marker date="1484079643000" expanded="true" signature="6390:6431" placeholder="SELECT id, f... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Css/cal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.29411766">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Css/note.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Css/signup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/Css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/mailer/class.phpmailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024232633">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/mailer/class.pop3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024232633">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/mailer/class.smtp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024232633">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/carousel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1484079643000" expanded="true" signature="1890:1912" placeholder="SELECT * FRO... reminder" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/FAQ.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023219815">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/MonitorYourGlucose.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject/.idea/copyright/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1463618808000" expanded="true" signature="410:461" placeholder="SELECT * FRO... client" />
-            <marker date="1463618808000" expanded="true" signature="586:648" placeholder="SELECT * FRO... client" />
-            <marker date="1463618808000" expanded="true" signature="900:1058" placeholder="INSERT INTO calendar... " />
-            <marker date="1463618808000" expanded="true" signature="1362:1406" placeholder="DELETE FROM " />
-            <marker date="1463618808000" expanded="true" signature="5161:5196" placeholder="..." />
-            <marker date="1463618808000" expanded="true" signature="5289:5324" placeholder="..." />
-            <marker date="1463618808000" expanded="true" signature="7257:7316" placeholder="SELECT * FRO... calendar" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
