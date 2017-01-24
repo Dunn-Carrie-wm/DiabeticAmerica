@@ -2,51 +2,99 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87797e45-772b-4468-8760-5e36daf3d6d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Year One/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/.idea/.name" afterPath="$PROJECT_DIR$/Year One/Business Side/.idea/.name" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/.idea/Business Side.iml" afterPath="$PROJECT_DIR$/Year One/Business Side/.idea/Business Side.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/Year One/Business Side/.idea/copyright/profiles_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/.idea/encodings.xml" afterPath="$PROJECT_DIR$/Year One/Business Side/.idea/encodings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/.idea/misc.xml" afterPath="$PROJECT_DIR$/Year One/Business Side/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/.idea/modules.xml" afterPath="$PROJECT_DIR$/Year One/Business Side/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Year One/Business Side/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/general.php" afterPath="$PROJECT_DIR$/Year One/Business Side/general.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/home.php" afterPath="$PROJECT_DIR$/Year One/Business Side/home.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/index.js" afterPath="$PROJECT_DIR$/Year One/Business Side/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/login.php" afterPath="$PROJECT_DIR$/Year One/Business Side/login.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/logout.php" afterPath="$PROJECT_DIR$/Year One/Business Side/logout.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/note.php" afterPath="$PROJECT_DIR$/Year One/Business Side/note.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/patientList.php" afterPath="$PROJECT_DIR$/Year One/Business Side/patientList.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/reminders.php" afterPath="$PROJECT_DIR$/Year One/Business Side/reminders.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/signup.php" afterPath="$PROJECT_DIR$/Year One/Business Side/signup.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/style.css" afterPath="$PROJECT_DIR$/Year One/Business Side/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Business Side/style.less" afterPath="$PROJECT_DIR$/Year One/Business Side/style.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Client Side/cal.js" afterPath="$PROJECT_DIR$/Year One/Client Side/cal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Client Side/general.php" afterPath="$PROJECT_DIR$/Year One/Client Side/general.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Client Side/login.php" afterPath="$PROJECT_DIR$/Year One/Client Side/login.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Client Side/logout.php" afterPath="$PROJECT_DIR$/Year One/Client Side/logout.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Client Side/notec.php" afterPath="$PROJECT_DIR$/Year One/Client Side/notec.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Client Side/profile2.php" afterPath="$PROJECT_DIR$/Year One/Client Side/profile2.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Client Side/remindersc.php" afterPath="$PROJECT_DIR$/Year One/Client Side/remindersc.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Client Side/signup.php" afterPath="$PROJECT_DIR$/Year One/Client Side/signup.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Css/cal.css" afterPath="$PROJECT_DIR$/Year One/Css/cal.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Css/login.css" afterPath="$PROJECT_DIR$/Year One/Css/login.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Css/note.css" afterPath="$PROJECT_DIR$/Year One/Css/note.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Css/signup.css" afterPath="$PROJECT_DIR$/Year One/Css/signup.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Css/style.css" afterPath="$PROJECT_DIR$/Year One/Css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/FAQ.php" afterPath="$PROJECT_DIR$/Year One/FAQ.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MonitorYourGlucose.php" afterPath="$PROJECT_DIR$/Year One/MonitorYourGlucose.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/Year One/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/carousel.php" afterPath="$PROJECT_DIR$/Year One/carousel.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/connect.php" afterPath="$PROJECT_DIR$/Year One/connect.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/homepage.php" afterPath="$PROJECT_DIR$/Year One/homepage.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/ethelpic.jpg" afterPath="$PROJECT_DIR$/Year One/images/ethelpic.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/nevilpic.jpg" afterPath="$PROJECT_DIR$/Year One/images/nevilpic.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/profile.png" afterPath="$PROJECT_DIR$/Year One/images/profile.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/susannahpic.jpg" afterPath="$PROJECT_DIR$/Year One/images/susannahpic.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mailer/class.phpmailer.php" afterPath="$PROJECT_DIR$/Year One/mailer/class.phpmailer.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mailer/class.pop3.php" afterPath="$PROJECT_DIR$/Year One/mailer/class.pop3.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mailer/class.smtp.php" afterPath="$PROJECT_DIR$/Year One/mailer/class.smtp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Year two/mainpage/img/header-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Year two/mainpage/css/agency.min.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/css/agency.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/header-bg.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/css/agency.css" afterPath="$PROJECT_DIR$/Year two/mainpage/css/agency.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/gulpfile.js" afterPath="$PROJECT_DIR$/Year two/mainpage/gulpfile.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/about/1.jpg" afterPath="$PROJECT_DIR$/Year two/mainpage/img/about/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/about/2.jpg" afterPath="$PROJECT_DIR$/Year two/mainpage/img/about/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/about/3.jpg" afterPath="$PROJECT_DIR$/Year two/mainpage/img/about/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/about/4.jpg" afterPath="$PROJECT_DIR$/Year two/mainpage/img/about/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/logos/aetuts.jpg" afterPath="$PROJECT_DIR$/Year two/mainpage/img/logos/aetuts.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/logos/creative-market.jpg" afterPath="$PROJECT_DIR$/Year two/mainpage/img/logos/creative-market.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/logos/designmodo.jpg" afterPath="$PROJECT_DIR$/Year two/mainpage/img/logos/designmodo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/logos/envato.jpg" afterPath="$PROJECT_DIR$/Year two/mainpage/img/logos/envato.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/logos/microlancer.jpg" afterPath="$PROJECT_DIR$/Year two/mainpage/img/logos/microlancer.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/logos/themeforest.jpg" afterPath="$PROJECT_DIR$/Year two/mainpage/img/logos/themeforest.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/logos/wordpress.jpg" afterPath="$PROJECT_DIR$/Year two/mainpage/img/logos/wordpress.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/map-image.png" afterPath="$PROJECT_DIR$/Year two/mainpage/img/map-image.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/portfolio/dreams-preview.png" afterPath="$PROJECT_DIR$/Year two/mainpage/img/portfolio/dreams-preview.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/portfolio/dreams.png" afterPath="$PROJECT_DIR$/Year two/mainpage/img/portfolio/dreams.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/portfolio/escape-preview.png" afterPath="$PROJECT_DIR$/Year two/mainpage/img/portfolio/escape-preview.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/portfolio/escape.png" afterPath="$PROJECT_DIR$/Year two/mainpage/img/portfolio/escape.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/portfolio/golden-preview.png" afterPath="$PROJECT_DIR$/Year two/mainpage/img/portfolio/golden-preview.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/portfolio/golden.png" afterPath="$PROJECT_DIR$/Year two/mainpage/img/portfolio/golden.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/portfolio/roundicons-free.png" afterPath="$PROJECT_DIR$/Year two/mainpage/img/portfolio/roundicons-free.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/portfolio/roundicons.png" afterPath="$PROJECT_DIR$/Year two/mainpage/img/portfolio/roundicons.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/portfolio/startup-framework-preview.png" afterPath="$PROJECT_DIR$/Year two/mainpage/img/portfolio/startup-framework-preview.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/portfolio/startup-framework.png" afterPath="$PROJECT_DIR$/Year two/mainpage/img/portfolio/startup-framework.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/portfolio/treehouse-preview.png" afterPath="$PROJECT_DIR$/Year two/mainpage/img/portfolio/treehouse-preview.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/portfolio/treehouse.png" afterPath="$PROJECT_DIR$/Year two/mainpage/img/portfolio/treehouse.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/team/1.jpg" afterPath="$PROJECT_DIR$/Year two/mainpage/img/team/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/team/2.jpg" afterPath="$PROJECT_DIR$/Year two/mainpage/img/team/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/img/team/3.jpg" afterPath="$PROJECT_DIR$/Year two/mainpage/img/team/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/index.html" afterPath="$PROJECT_DIR$/Year two/mainpage/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/js/agency.js" afterPath="$PROJECT_DIR$/Year two/mainpage/js/agency.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/js/agency.min.js" afterPath="$PROJECT_DIR$/Year two/mainpage/js/agency.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/js/contact_me.js" afterPath="$PROJECT_DIR$/Year two/mainpage/js/contact_me.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/js/jqBootstrapValidation.js" afterPath="$PROJECT_DIR$/Year two/mainpage/js/jqBootstrapValidation.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/less/agency.less" afterPath="$PROJECT_DIR$/Year two/mainpage/less/agency.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/less/mixins.less" afterPath="$PROJECT_DIR$/Year two/mainpage/less/mixins.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/less/variables.less" afterPath="$PROJECT_DIR$/Year two/mainpage/less/variables.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/mail/contact_me.php" afterPath="$PROJECT_DIR$/Year two/mainpage/mail/contact_me.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/package.json" afterPath="$PROJECT_DIR$/Year two/mainpage/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/scss/_mixins.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/scss/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/scss/_variables.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/scss/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/scss/agency.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/scss/agency.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/bootstrap/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/bootstrap/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/bootstrap/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/bootstrap/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/less/animated.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/less/bordered-pulled.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/less/core.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/less/fixed-width.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/less/font-awesome.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/less/icons.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/less/larger.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/less/list.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/less/mixins.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/less/path.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/less/rotated-flipped.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/less/screen-reader.less" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/less/screen-reader.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/less/stacked.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/less/variables.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/scss/_animated.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/scss/_core.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/scss/_fixed-width.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/scss/_icons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/scss/_larger.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/scss/_list.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/scss/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/scss/_path.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/scss/_screen-reader.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/scss/_stacked.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/scss/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/font-awesome/scss/font-awesome.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/jquery/jquery.js" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/jquery/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/vendor/jquery/jquery.min.js" afterPath="$PROJECT_DIR$/Year two/mainpage/vendor/jquery/jquery.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DiabeticAmerica.iws" />
@@ -70,20 +118,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/index.html">
+        <entry file="file://$PROJECT_DIR$/Year two/mainpage/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-418.75">
-              <caret line="670" column="0" selection-start-line="670" selection-start-column="0" selection-end-line="670" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.5">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Year two/startbootstrap-sb-admin-gh-pages/index.html">
+      <file leaf-file-name="agency.min.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Year two/mainpage/css/agency.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.458333">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="1.712963">
+              <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -131,7 +179,9 @@
         <option value="$PROJECT_DIR$/FinalProject/MonitorYourGlucose.php" />
         <option value="$PROJECT_DIR$/carousel.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/css/agency.min.css" />
         <option value="$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/index.html" />
+        <option value="$PROJECT_DIR$/Year two/mainpage/css/agency.min.css" />
       </list>
     </option>
   </component>
@@ -192,8 +242,22 @@
               <option name="myItemId" value="Year two" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="startbootstrap-sb-admin-gh-pages" />
+              <option name="myItemId" value="DiabeticAmerica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DiabeticAmerica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Year two" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mainpage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -211,7 +275,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="startbootstrap-agency-gh-pages" />
+              <option name="myItemId" value="mainpage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -277,10 +345,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1438" height="790" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1438" height="790" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2012894" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2012894" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -307,122 +375,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Year One/carousel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/mailer/class.pop3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/mailer/class.smtp.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/mailer/class.phpmailer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/images/profile.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/images/ethelpic.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/images/nevilpic.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/images/susannahpic.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/Css/cal.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/Css/note.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/Css/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/Css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/Css/signup.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/Client Side/cal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/Client Side/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Year One/Client Side/notec.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Year One/Client Side/logout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -609,18 +561,159 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Year two/startbootstrap-agency-gh-pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-418.75">
-          <caret line="670" column="0" selection-start-line="670" selection-start-column="0" selection-end-line="670" selection-end-column="0" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/about/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Year two/startbootstrap-sb-admin-gh-pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.458333">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/about/2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/about/3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/about/4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/logos/aetuts.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/logos/designmodo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/logos/creative-market.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/logos/envato.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/logos/microlancer.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/logos/themeforest.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/logos/wordpress.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/portfolio/dreams.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/portfolio/dreams-preview.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/portfolio/escape.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/portfolio/escape-preview.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/portfolio/golden.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/portfolio/golden-preview.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/portfolio/roundicons.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/portfolio/roundicons-free.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/portfolio/startup-framework.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/portfolio/startup-framework-preview.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/portfolio/treehouse.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/portfolio/treehouse-preview.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/map-image.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/img/header-bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8055556">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Year two/mainpage/css/agency.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.712963">
+          <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
           <folding />
         </state>
       </provider>
